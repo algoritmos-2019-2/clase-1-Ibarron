@@ -1,5 +1,6 @@
 #!/usr/bin/env python3.6
 
+
 bool = [False, True]
 print ('x\ty\tx or y')
 #Tabla de verdad de 'or'
